@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Department of Information Science</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Department of Information Science</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#faculty">Faculty</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Empowering the Future with Technology & Data</h2>
+            <p>Innovate. Analyze. Transform.</p>
+        </div>
+    </section>
+
+    <section id="about" class="container">
+        <h2>About Us</h2>
+        <p>The Department of Information Science offers cutting-edge education and research opportunities in data science, AI, software engineering, and more.</p>
+    </section>
+
+    <section id="faculty" class="container">
+        <h2>Our Faculty</h2>
+        <ul class="faculty-list">
+            <li>Dr. A. Kumar – Data Science, AI</li>
+            <li>Prof. S. Nair – Cybersecurity, Networks</li>
+            <li>Dr. R. Mehta – Software Engineering</li>
+        </ul>
+    </section>
+
+    <section id="courses" class="container">
+        <h2>Courses Offered</h2>
+        <ul>
+            <li>Introduction to Data Science</li>
+            <li>Artificial Intelligence & Machine Learning</li>
+            <li>Web Development</li>
+            <li>Database Systems</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact Us</h2>
+        <p>Email: info@infosci.university.edu</p>
+        <p>Phone: +123 456 7890</p>
+        <p>Address: Information Science Building, Tech University Campus</p>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Department of Information Science, Tech University</p>
+        </div>
+    </footer>
+</body>
+</html>
