@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dept. of Information Science & Engineering</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header with college info -->
+  <header>
+    <div class="college-header">
+      <img src="college-logo.png" alt="College Logo" class="logo">
+      <div>
+        <h1>XYZ Institute of Technology</h1>
+        <p class="motto">"Empowering Minds, Shaping Futures"</p>
+      </div>
+    </div>
+    <h2>Department of Information Science and Engineering</h2>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#departments">Departments</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <!-- Home Section -->
+  <section id="home" class="section">
+    <h3>Welcome to the Department of Information
